@@ -1,5 +1,5 @@
 require('catppuccin').setup({
-    transparent_background = false
+    transparent_background = true
 })
 function ColorMe(color)
 	color = color or "catppuccin-mocha"
